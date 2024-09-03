@@ -38,6 +38,7 @@ To access the full source code, we kindly ask for a donation. Your contributions
 
 - [Sociabuzz](https://sociabuzz.com/jspservice)
 - [Saweria](https://saweria.co/JSPService)
+- [Buy Me A Coffee](https://www.buymeacoffee.com/j3rr7)
 
 ## Contact Us
 
